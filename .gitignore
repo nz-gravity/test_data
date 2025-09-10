@@ -3,9 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+*.h5
 # C extensions
 *.so
-
+*.idea
 # Distribution / packaging
 .Python
 build/
